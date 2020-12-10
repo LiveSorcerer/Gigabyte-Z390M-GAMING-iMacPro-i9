@@ -5,7 +5,7 @@
 
 Verified working with macOS version 11.0.1 (20B29) Big Sur and OpenCore 0.6.4.
 
-![System](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/blob/master/Tips/About-System.png?raw=true)
+![System](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/iMac.png?raw=true)
 
 ## Important! Important! Important!
 
@@ -159,11 +159,9 @@ Please [report and track](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M
 * [NVMeFix](https://github.com/acidanthera/NVMeFix)
 * [USBInjectAll](https://bitbucket.org/RehabMan/os-x-usb-inject-all)
 * [OpenCore Configurator](https://mackie100projects.altervista.org/category/opencore-configurator-changelog/)
-* [OcBinaryData](https://github.com/acidanthera/OcBinaryData)
 * [Hackintool](https://github.com/headkaze/Hackintool)
 * [PLIST Editor](https://apps.apple.com/us/app/plist-editor/id1157491961?mt=12)
 * [Sanity Checker for config.plist](https://opencore.slowgeek.com)
-* [FreeDOS](http://www.freedos.org/download/)
 
 
 ## References
