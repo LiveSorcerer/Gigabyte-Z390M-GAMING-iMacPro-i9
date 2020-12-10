@@ -40,10 +40,10 @@ It can be simple and complicated at the same time, refer directly to this manual
 Components | Recommended SKU | Comments
 ------------ | ------------- | -------------
 **CPU** | Intel i9-9900K | 8th/9th-gen both fine (9900K/9700/8700/etc)
-**Motherboard** | Gigabyte Z390M Gaming mATX | 
+**Motherboard** | Gigabyte Z390M Gaming mATX |  Z390M Gaming
 **WiFi Adapter 1** | BCM94360CD (4 antennas) | Bluetooth 4.0 (Including NGFF to PCI-e 1x Adapter)
 **WiFi Adapter 2** | Intel AC 9560 (2 antennas) | Bluetooth 5.0 (NGFF CNVi Connector)
-**Graphics Card** | Gigabyte Radeon™ RX VEGA 56 GAMING OC 8G | 
+**Graphics Card** | Gigabyte Radeon™ RX VEGA 56 GAMING OC 8G | RX Vega 56 8GB HBM2
 **Thunderbolt Card** | Gigabyte GC-TITAN RIDGE | Thunderbolt 3 Certified
 **SSD** |  2x Samsung 970 Evo Plus 500GB | Dual Boot 500GB MacOS & 500GB Win 10 Pro
 **HDD** | 5x Seagate IronWolf 4TB | 20TB Total
