@@ -12,7 +12,7 @@ Verified working with macOS version 11.0.1 (20B29) Big Sur and OpenCore 0.6.4.
 **F9l BIOS from GIGABYTE resolves the Apple Watch unlock(SERIAL PORT disabled) issue and provides the CFG Unlock in the BIOS. CFG Unlock is required for this EFI to work properly. Be sure to upgrade F9l.**
 
 **YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.**
-![SN/UUID/MLB](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/blob/master/Tips/MLBUUIDSN.png?raw=true)
+![SN/UUID/MLB](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/MLB.png?raw=true)
 
 
 Included items table
