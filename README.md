@@ -1,5 +1,7 @@
 # Gigabyte-Z390M-GAMING-iMacPro-i9
 [OpenCore](https://github.com/acidanthera/OpenCorePkg) bootloader ONLY.
+Motherboard Layout
+![SN/UUID/MLB](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/MLB.png?raw=true)
 
 ## Gigabyte Z390M GAMING hackintosh w/ OpenCore
 
