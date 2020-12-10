@@ -7,9 +7,7 @@ Verified working with macOS version 11.0.1 (20B29) Big Sur and OpenCore 0.6.4.
 
 ![System](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/iMac.png?raw=true)
 
-## Important! Important! Important!
-
-**F9l BIOS from GIGABYTE resolves the Apple Watch unlock(SERIAL PORT disabled) issue and provides the CFG Unlock in the BIOS. CFG Unlock is required for this EFI to work properly. Be sure to upgrade F9l.**
+## Important!
 
 **YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.**
 ![SN/UUID/MLB](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/MLB.png?raw=true)
@@ -17,9 +15,9 @@ Verified working with macOS version 11.0.1 (20B29) Big Sur and OpenCore 0.6.4.
 
 Included items table
 
-Items | Last Version | Comments
------------- | ------------- | -------------
-[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F9l | Be sure to upgrade F9l
+Items | Last Version | 
+------------ | ------------- | 
+[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F9l | 
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.4 |
 [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.5.0 | 
 [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.5.5 |
