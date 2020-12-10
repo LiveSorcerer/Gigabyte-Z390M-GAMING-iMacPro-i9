@@ -13,7 +13,7 @@ Verified working with macOS version 11.0.1 (20B29) Big Sur and OpenCore 0.6.4.
 ![SN/UUID/MLB](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/MLB.png?raw=true)
 
 
-Included items table
+Included items 
 
 Items | Last Version | 
 ------------ | ------------- | 
@@ -26,11 +26,11 @@ Items | Last Version |
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.4 |
 [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | 1.0.4 |
 
-**Important! Important! Important**
+**Important!**
 **Highly recommended to try the lastest BIOS 'F9l' version.** 
 
 ## Overview
-Installation procedure is quite straightforward, but requires prior knowledge or experience with Hackintoshes. 
+Installation procedure is quite straightforward, but requires experience with Hackintoshes. 
 It can be simple and complicated at the same time, refer directly to this manual for a better experience.
 
 ## Hardware
@@ -38,12 +38,13 @@ Components | Recommended SKU | Comments
 ------------ | ------------- | -------------
 **CPU** | Intel i9-9900K | 8th/9th-gen both fine (9900K/9700/8700/etc)
 **Motherboard** | Gigabyte Z390M Gaming mATX | 
-**WiFi Adapter** | BCM943602CDP (4 antennas) | Bluetooth 4.2 (Including NGFF to M.2 Adapter)
+**WiFi Adapter 1** | BCM94360CD (4 antennas) | Bluetooth 4.0 (Including NGFF to PCI-e 1x Adapter)
+**WiFi Adapter 2** | Intel AC 9560 (2 antennas) | Bluetooth 5.0 (NGFF CNVi Connector)
 **Graphics Card** | Gigabyte Radeon™ RX VEGA 56 GAMING OC 8G | 
-**Thunderbolt Card** | Gigabyte GC-TITAN RIDGE | Thunderbolt 3 Certified (Need hard-flash)
-**SSD** |  2x Samsung 970 Evo Plus 500GB | 500GB for MacOS and 500GB for Windows 10 Pro
+**Thunderbolt Card** | Gigabyte GC-TITAN RIDGE | Thunderbolt 3 Certified
+**SSD** |  2x Samsung 970 Evo Plus 500GB | Dual Boot 500GB MacOS & 500GB Win 10 Pro
 **HDD** | 5x Seagate IronWolf 4TB | 20TB Total
-**RAM** | Corsair Vengeance LPX 64GB (4x16GB) DDR4 X.M.P | Recommend 3200MHz 
+**RAM** | Corsair Vengeance LPX 64GB (4x16GB) DDR4 X.M.P | 3200MHz 
 **PSU** | Corsair RM850x | 850W 80 Plus Gold 
 **PC Case** | MacPro 3.1| Year 2008
 **CPU Cooler** | Noctua NH-U12A| Low Noise
@@ -136,17 +137,9 @@ Based on F9l version.
        - GPIO3 Force Pwr → **Enabled**
 
 
-## Tips
-* How to hard-flash GC-TITAN RIDGE BIOS with SSDT patched? Ref here [Post 1](https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-1640#post-2087524) [Post 2](https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551/page-1624#post-2086862) [Post 3](https://github.com/ameyrupji/thunderbolt-macpro-5-1/blob/master/GC-TitanRidge.md) [Post 4](https://github.com/ameyrupji/thunderbolt-macpro-5-1/blob/master/GC-TitanRidge-CustomFirmware.md)
-* How to force RGB mode for displays? Ref [here](https://forums.macrumors.com/threads/big-sur-force-rgb-mode-for-displays.2268099/)
-
-
 ## Not Working / Issues
-Please [report and track](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/issues)
+Please [report and track](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/issues)
 
-## Known Issues
-* Big Sur seems to break the support for Apple TV+ DRM. [Ref](https://github.com/acidanthera/bugtracker/issues/1034)
-* Multiple key press to wake from sleep with bluetooth (known issue with Gigabyte Gaming X or M boards)
 
 ## Kexts & Tools
 * [Lilu](https://github.com/acidanthera/Lilu)
