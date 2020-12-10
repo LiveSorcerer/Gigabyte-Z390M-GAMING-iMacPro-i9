@@ -28,8 +28,8 @@ Items | Last Version |
 [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.4.5 |
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.4 |
 [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | 1.0.4 |
-[IntelAC9560wifi](https://mega.nz/file/UZozHARJ#mhMoYBhRpUtBrvLjSx7SE2fcnWt5BD065gibe3G1Y2s)
-[IntelBluetooth](https://mega.nz/file/xEw23aiA#iiSnQsGFlMEnVjtOi_sNdQxMD2XSy81yW4aS7ur9ZWU)
+[IntelAC9560wifi](https://mega.nz/file/UZozHARJ#mhMoYBhRpUtBrvLjSx7SE2fcnWt5BD065gibe3G1Y2s) | Alpha |
+[IntelBluetooth](https://mega.nz/file/xEw23aiA#iiSnQsGFlMEnVjtOi_sNdQxMD2XSy81yW4aS7ur9ZWU) | Alpha v 1.2.0 |
 
 **Important!**
 **Highly recommended to try the lastest BIOS 'F9l' version.** 
