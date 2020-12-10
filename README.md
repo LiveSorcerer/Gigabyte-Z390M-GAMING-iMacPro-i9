@@ -166,7 +166,7 @@ Please [report and track](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-
 * [https://www.tonymacx86.com/threads/gigabyte-z390-m-gaming-build-with-working-nvram.291193/](https://www.tonymacx86.com/threads/gigabyte-z390-m-gaming-build-with-working-nvram.291193/)
 * [https://dortania.github.io/OpenCore-Install-Guide/](https://dortania.github.io/OpenCore-Install-Guide/)
 * [https://dortania.github.io/Getting-Started-With-ACPI/](https://dortania.github.io/Getting-Started-With-ACPI/)
-* [Intel wifi kext Hackintosh High Sierra,Mojave,Catalina 3160;3165;3168;7260;7265;8265;9260;9560;9462 ] (https://www.youtube.com/watch?v=kHfUjJ2RkyU)
+* [Intel wifi kext Hackintosh High Sierra,Mojave,Catalina, Big Sur 9560](https://www.youtube.com/watch?v=kHfUjJ2RkyU)
 
 
 ## Geekbench 5 Scores
