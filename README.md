@@ -1,5 +1,5 @@
 # Gigabyte-Z390M-GAMING-iMacPro-i9
-[OpenCore](https://github.com/acidanthera/OpenCorePkg) bootloader ONLY, Clover not supported (Let it go).
+[OpenCore](https://github.com/acidanthera/OpenCorePkg) bootloader ONLY.
 
 ## Gigabyte Z390M GAMING hackintosh w/ OpenCore
 
@@ -14,17 +14,6 @@ Verified working with macOS version 11.0.1 (20B29) Big Sur and OpenCore 0.6.4.
 **YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.**
 ![SN/UUID/MLB](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/blob/master/Tips/MLBUUIDSN.png?raw=true)
 
-## Updates
-2020-12-08 / Version 1.6.9
-Upgrade to OpenCore 0.6.4 and others Kexts.(Lilu/AppleALC/WhateverGreen/etc)
-
-2020-11-13 / Version 1.6.8
-Big Sur 11.0.1 (20B29) Verified. Fixed booter issue 'Start Image Failed'.
-
-2020-11-03 / Version 1.6.7
-Upgrade to OpenCore 0.6.3 and others Kexts.(Lilu/AppleALC/WhateverGreen/etc)
-
-[Changelog History](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/tree/master/Changelog.txt)
 
 Included items table
 
@@ -40,7 +29,7 @@ Items | Last Version | Comments
 [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | 1.0.4 |
 
 **Important! Important! Important**
-**Highly recommended to try the lastest BIOS 'F9l' version. Download [BIOS](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/tree/master/BIOS/mb_bios_z390-m-gaming_f9l.zip) and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.**
+**Highly recommended to try the lastest BIOS 'F9l' version.** 
 
 ## Overview
 Installation procedure is quite straightforward, but requires prior knowledge or experience with Hackintoshes. 
@@ -52,18 +41,17 @@ Components | Recommended SKU | Comments
 **CPU** | Intel i9-9900K | 8th/9th-gen both fine (9900K/9700/8700/etc)
 **Motherboard** | Gigabyte Z390M Gaming mATX | 
 **WiFi Adapter** | BCM943602CDP (4 antennas) | Bluetooth 4.2 (Including NGFF to M.2 Adapter)
-**Graphics Card** | Gigabyte Radeon™ RX VEGA 56 GAMING OC 8G
+**Graphics Card** | Gigabyte Radeon™ RX VEGA 56 GAMING OC 8G | 
 **Thunderbolt Card** | Gigabyte GC-TITAN RIDGE | Thunderbolt 3 Certified (Need hard-flash)
-SSD |  2x Samsung 970 Evo Plus 500GB | 
-HDD | 5x Seagate IronWolf 4TB | 
-RAM | Corsair Vengeance LPX 64GB (4x16GB) DDR4 X.M.P | Recommend 3200MHz 
-PSU | Corsair RM850x |
-PC Case | Jonsbo RM2 ATX | Silver
-CPU Cooler | Jonsbo TW2-240 | Version 601
-SSD Cooler | CRYORIG Frostbit (M.2) | 
-Cooling Fan | Noctua NF-F12 PWM | 12cm
-Monitors | LED Cinema Display 24 & AOC U2790PQU IPS 4K | ACD 24 including Camera / Mic / Speaker / USB hub
-Keyboard & Mouse | Magic Keyboard & Magic Mouse 2 & Magic Trackpad 2 | Prefer to wireless devices
+**SSD** |  2x Samsung 970 Evo Plus 500GB | 500GB for MacOS and 500GB for Windows 10 Pro
+**HDD** | 5x Seagate IronWolf 4TB | 20TB Total
+**RAM** | Corsair Vengeance LPX 64GB (4x16GB) DDR4 X.M.P | Recommend 3200MHz 
+**PSU** | Corsair RM850x | 850W 80 Plus Gold 
+**PC Case** | MacPro 3.1| Year 2008
+**CPU Cooler** | Noctua NH-U12A| Low Noise
+**Cooling Fan** | 3x Noctua NF-S12A PWM | 12cm
+**Monitors** | LG 32"4K UK550 & 2 Dell UltraSharp U2419H | LG 32 including  Speaker & Dell USB hub
+**Keyboard & Mouse** | Aigo V800 Keyboard & Logitech M720 Mouse | Keyboard MacOS/Windows layout
 
 **IMPORTANT: Core components (Motherboard / Graphics Card / WiFi Adapter) are CRUCIAL and you HAVE TO follow the instructions above.**
 
