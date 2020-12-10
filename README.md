@@ -154,6 +154,8 @@ Please [report and track](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-
 * [IntelMausi](https://github.com/acidanthera/IntelMausi)
 * [NVMeFix](https://github.com/acidanthera/NVMeFix)
 * [USBInjectAll](https://bitbucket.org/RehabMan/os-x-usb-inject-all)
+* [IntelAC9560wifi](https://mega.nz/file/UZozHARJ#mhMoYBhRpUtBrvLjSx7SE2fcnWt5BD065gibe3G1Y2s)
+* [IntelBluetooth](https://mega.nz/file/xEw23aiA#iiSnQsGFlMEnVjtOi_sNdQxMD2XSy81yW4aS7ur9ZWU)
 * [OpenCore Configurator](https://mackie100projects.altervista.org/category/opencore-configurator-changelog/)
 * [Hackintool](https://github.com/headkaze/Hackintool)
 * [PLIST Editor](https://apps.apple.com/us/app/plist-editor/id1157491961?mt=12)
