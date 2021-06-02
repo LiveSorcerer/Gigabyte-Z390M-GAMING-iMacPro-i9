@@ -8,7 +8,7 @@ Motherboard Layout
 
 Verified working with macOS version 11.4 (20F71) Big Sur and OpenCore 0.6.9.
 
-![System](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/iMac.png?raw=true)
+![System](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/iMacPro.png?raw=true)
 
 ## Important!
 
