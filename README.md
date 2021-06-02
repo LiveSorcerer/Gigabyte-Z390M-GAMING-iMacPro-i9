@@ -20,7 +20,7 @@ Included items
 
 Items | Last Version | 
 ------------ | ------------- | 
-[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F9l | 
+[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F9m | 
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.9 |
 [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.5.3 | 
 [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.6.0 |
@@ -32,7 +32,7 @@ Items | Last Version |
 [IntelBluetooth](https://mega.nz/file/xEw23aiA#iiSnQsGFlMEnVjtOi_sNdQxMD2XSy81yW4aS7ur9ZWU) | Alpha |
 
 **Important!**
-**Highly recommended to try the lastest BIOS 'F9l' version.** 
+**Highly recommended to try the lastest BIOS 'F9m' version. Download BIOS and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.** 
 
 ## Overview
 Installation procedure is quite straightforward, but requires experience with Hackintoshes. 
@@ -63,7 +63,7 @@ If you want a smooth experience using wireless functionalities such as AirDrop /
 
 ## BIOS Settings
 
-Based on F9l version.
+Based on F9m version.
 
 #### First setup,
 
