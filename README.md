@@ -180,8 +180,7 @@ Please [report and track](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-
 ![RAM](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Memory.png?raw=true)
 ![IPG](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/IPG.png?raw=true)
 ![TB3](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/TB3.png?raw=true)
-!
-[SSDSpeed](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Speed.png?raw=true)
+![SSDSpeed](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Speed.png?raw=true)
 ![RAWSpeed](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Speed%20raw.png?raw=true)
 ![OCbootloader](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/OCboot.jpg?raw=true)
 ![OCbootloader_2](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/OCboot2.jpg?raw=true)
