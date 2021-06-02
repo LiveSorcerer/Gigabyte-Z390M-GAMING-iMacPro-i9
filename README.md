@@ -6,7 +6,7 @@ Motherboard Layout
 
 ## Gigabyte Z390M GAMING hackintosh w/ OpenCore
 
-Verified working with macOS version 11.0.1 (20B29) Big Sur and OpenCore 0.6.4.
+Verified working with macOS version 11.4 (20F71) Big Sur and OpenCore 0.6.9.
 
 ![System](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/iMac.png?raw=true)
 
@@ -21,12 +21,12 @@ Included items
 Items | Last Version | 
 ------------ | ------------- | 
 [BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F9l | 
-[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.4 |
-[Lilu](https://github.com/acidanthera/Lilu/releases) | 1.5.0 | 
-[AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.5.5 |
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | 1.1.9 |
-[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.4.5 |
-[NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.4 |
+[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.9 |
+[Lilu](https://github.com/acidanthera/Lilu/releases) | 1.5.3 | 
+[AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.6.0 |
+[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | 1.2.3 |
+[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.4.9 |
+[NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.7 |
 [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | 1.0.4 |
 [IntelAC9560wifi](https://mega.nz/file/UZozHARJ#mhMoYBhRpUtBrvLjSx7SE2fcnWt5BD065gibe3G1Y2s) | Alpha v 1.2.0 |
 [IntelBluetooth](https://mega.nz/file/xEw23aiA#iiSnQsGFlMEnVjtOi_sNdQxMD2XSy81yW4aS7ur9ZWU) | Alpha |
