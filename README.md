@@ -178,8 +178,7 @@ Please [report and track](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-
 ## System ScreenShots
 ![Display](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Display.png?raw=true)
 ![RAM](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Memory.png?raw=true)
-!
-[IPG](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/IPG.png?raw=true)
+![IPG](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/IPG.png?raw=true)
 !
 [TB3](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/TB3.png?raw=true)
 !
