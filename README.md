@@ -48,7 +48,7 @@ Components | Recommended SKU | Comments
 **Graphics Card** | Gigabyte Radeon™ RX VEGA 56 GAMING OC 8G | RX Vega 56 8GB HBM2
 **Thunderbolt Card** | Gigabyte GC-TITAN RIDGE | Thunderbolt 3 Certified
 **SSD** |  2x Samsung 970 Evo Plus 500GB | Dual Boot 500GB MacOS & 500GB Win 10 Pro
-**HDD** | 5x Seagate IronWolf 4TB | 20TB Total
+**HDD** | 4x Seagate IronWolf 4TB | 16TB Total
 **RAM** | Corsair Vengeance LPX 64GB (4x16GB) DDR4 X.M.P | 3200MHz 
 **PSU** | Corsair RM850x | 850W 80 Plus Gold 
 **PC Case** | MacPro 3.1| Year 2008
