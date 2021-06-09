@@ -6,7 +6,7 @@ Motherboard Layout
 
 ## Gigabyte Z390M GAMING hackintosh w/ OpenCore
 
-Verified working with macOS version 11.4 (20F71) Big Sur and OpenCore 0.6.9.
+Verified working with macOS version 11.4 (20F71) Big Sur and OpenCore 0.7.0.
 
 ![System](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/iMacPro.png?raw=true)
 
@@ -182,7 +182,7 @@ Please [report and track](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-
 ![TB3](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/TB3.png?raw=true)
 ![SSDSpeed](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Speed.png?raw=true)
 ![RAWSpeed](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/Speed%20raw.png?raw=true)
-![OCbootloader](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/OCboot.jpg?raw=true)
+![OCbootloader](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/OCboot.png?raw=true)
 ![BigSurLogon](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/logon.jpg?raw=true)
 ![MacProi9](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/MacPro.jpg?raw=true)
 
