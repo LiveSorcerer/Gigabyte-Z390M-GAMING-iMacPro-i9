@@ -141,6 +141,9 @@ Based on F9m version.
        - Thunderbolt Usb Support → **Enabled**
        - GPIO3 Force Pwr → **Enabled**
 
+#### USB Mapping for Gigabyte Z390m Gaming
+![USBMapping](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/blob/main/screenshots/USBMapping.png?raw=true)
+!
 
 ## Not Working / Issues
 Please [report and track](https://github.com/LiveSorcerer/Gigabyte-Z390M-GAMING-iMacPro-i9/issues)
