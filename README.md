@@ -21,13 +21,13 @@ Included items
 Items | Last Version | 
 ------------ | ------------- | 
 [BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F9m | 
-[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.9 |
+[OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.7.0 |
 [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.5.3 | 
-[AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.6.0 |
-[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | 1.2.3 |
-[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.4.9 |
-[NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.7 |
-[IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | 1.0.4 |
+[AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.6.1 |
+[VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | 1.2.4 |
+[WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.5.0 |
+[NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.8 |
+[IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | 1.0.6 |
 [IntelAC9560wifi](https://mega.nz/file/UZozHARJ#mhMoYBhRpUtBrvLjSx7SE2fcnWt5BD065gibe3G1Y2s) | Alpha v 1.2.0 |
 [IntelBluetooth](https://mega.nz/file/xEw23aiA#iiSnQsGFlMEnVjtOi_sNdQxMD2XSy81yW4aS7ur9ZWU) | Alpha |
 
