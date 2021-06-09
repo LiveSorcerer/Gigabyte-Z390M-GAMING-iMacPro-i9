@@ -55,7 +55,7 @@ Components | Recommended SKU | Comments
 **CPU Cooler** | Noctua NH-U12A| Low Noise
 **Cooling Fan** | 3x Noctua NF-S12A PWM | 12cm
 **Monitors** | LG 32"4K UK550 & 2 Dell UltraSharp U2419H | LG 32 including  Speaker & Dell USB hub
-**Keyboard & Mouse** | Aigo V800 Keyboard & Logitech M720 Mouse | Keyboard MacOS/Windows layout
+**Keyboard & Mouse** | Logitech K375s Keyboard & M720 Mouse | Keyboard MacOS/Windows layout
 
 **IMPORTANT: Core components (Motherboard / Graphics Card / WiFi Adapter) are CRUCIAL and you HAVE TO follow the instructions above.**
 
